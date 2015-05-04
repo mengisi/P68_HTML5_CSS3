@@ -1,0 +1,25 @@
+aside,nav,header,footer,section{
+    border: 1px black solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#main_wrapper{
+    border: 2px red solid;
+    width: 700px;
+    padding: 5px;
+}
+
+aside, nav{
+    width: 140px;
+}
+
+#main_wrapper, aside{
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1{
+    text-align: center;
+}
+
