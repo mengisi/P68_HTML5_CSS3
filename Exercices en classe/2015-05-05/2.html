@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    <title>Untitled</title>
+    <style>
+        input {
+            font-size: 2em;
+            height: 2em;
+        }
+
+        :focus {
+            border-style: dashed;
+        }
+
+        :required {
+            border-left: 6px solid #686868;
+        }
+
+        :optional {
+            border-left: dashed 1px #848484;
+        }
+
+        input:valid {
+            background-color: greenyellow;
+        }
+
+        input:invalid {
+            background-color: #ff3335;
+        }
+
+        form {
+            width : 50%;
+            height: 300px;
+            border-style: dotted;
+            border-width: 3px;
+        }
+
+        form:valid {
+            border-color: greenyellow;
+        }
+        form:invalid {
+            border-color: #ff3335;
+        }
+
+        :in-range {
+            border-radius: 20%;
+
+        }
+
+        :out-of-range {
+            border-radius: 0;
+
+        }
+
+        p:target{
+            background-color: hotpink;
+        }
+
+        #radius{
+            margin: auto;
+            width: 300px;
+            height: 300px;
+            background-color: cornflowerblue;
+            border-top-left-radius: 100px 300px;
+            border: 5px solid darkred;
+            text-align: center;
+            font-size: 2.5em;
+            text-shadow:2px 2px 5px yellow, -2px -2px 0 white;
+            box-shadow: 15px 15px 18px black;
+
+        }
+
+        #pp, #radius{
+            vertical-align: bottom;
+        }
+    </style>
+</head>
+<body>
+<main>
+    <div id="radius"><p id="pp">Border-radius</p></div>
+
+    <form action="#">
+        <div>
+            <label><input type="text" autofocus="autofocus" required="required" pattern="[A-Za-z0-9]{2,3}"/></label>
+        </div>
+        <div>
+            <label><input type="text" name="prenom"/></label>
+        </div>
+        <div>
+            <label><input type="number" required="required" min="18" max="65"/></label>
+        </div>
+    </form>
+
+    <nav>
+        <ul>
+            <li><a href="#p1">P1</a></li>
+            <li><a href="#p2">P2</a></li>
+            <li><a href="#p3">P3</a></li>
+        </ul>
+    </nav>
+
+    <p id="p1">P1: Cras placerat efficitur vestibulum. Nunc ut rhoncus turpis. Phasellus rhoncus mattis nibh, non pretium ante. Pellentesque sagittis nunc sit amet metus commodo, a blandit mi consequat. Nulla tincidunt nibh at venenatis scelerisque. Sed et tincidunt risus. Duis vel nulla ac eros vestibulum tincidunt eu in velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc interdum dictum sem malesuada faucibus.</p>
+    <p id="p2">P2: Cras placerat efficitur vestibulum. Nunc ut rhoncus turpis. Phasellus rhoncus mattis nibh, non pretium ante. Pellentesque sagittis nunc sit amet metus commodo, a blandit mi consequat. Nulla tincidunt nibh at venenatis scelerisque. Sed et tincidunt risus. Duis vel nulla ac eros vestibulum tincidunt eu in velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc interdum dictum sem malesuada faucibus.</p>
+    <p id="p3">P3: Cras placerat efficitur vestibulum. Nunc ut rhoncus turpis. Phasellus rhoncus mattis nibh, non pretium ante. Pellentesque sagittis nunc sit amet metus commodo, a blandit mi consequat. Nulla tincidunt nibh at venenatis scelerisque. Sed et tincidunt risus. Duis vel nulla ac eros vestibulum tincidunt eu in velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc interdum dictum sem malesuada faucibus.</p>
+
+
+</main>
+</body>
+</html>
