@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    <title>Untitled</title>
+    <style>
+        input {
+            font-size: 2em;
+            height: 2em;
+        }
+
+        :focus {
+            border-style: dashed;
+        }
+
+        :required {
+            border-left: 6px solid #686868;
+        }
+
+        :optional {
+            border-left: dashed 1px #848484;
+        }
+
+        input:valid {
+            background-color: greenyellow;
+        }
+
+        input:invalid {
+            background-color: #ff3335;
+        }
+
+        form {
+            width : 50%;
+            height: 300px;
+            border-style: dotted;
+            border-width: 3px;
+        }
+
+        form:valid {
+            border-color: greenyellow;
+        }
+        form:invalid {
+            border-color: #ff3335;
+        }
+
+        :in-range {
+            border-radius: 20%;
+
+        }
+
+        :out-of-range {
+            border-radius: 0;
+
+        }
+    </style>
+</head>
+<body>
+<main>
+    <form action="#">
+        <div>
+            <label><input type="text" autofocus="autofocus" required="required" pattern="[A-Za-z0-9]{2,3}"/></label>
+        </div>
+        <div>
+            <label><input type="text" name="prenom"/></label>
+        </div>
+        <div>
+            <label><input type="number" required="required" min="18" max="65"/></label>
+        </div>
+    </form>
+</main>
+</body>
+</html>
