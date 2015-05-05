@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    <title>Untitled</title>
+    <link rel="stylesheet" href="style/main.css"/>
+</head>
+<body>
+<div id="main_wrapper">
+    <h1>P68 Page demo élément &lt;output&gt;</h1>          <!--注意的 < > 表示-->
+    <form name="form1" id="form1" oninput="affiche_vitesse.value = vitesse.value;">
+        <h3>Saisie de vitesse</h3>
+        <label for="vitesse">Vitesse</label>
+        <input type="range" id="vitesse" name="vitesse" min="0" max="130" value="0" step="10">
+        <output for="vitesse" name="affiche_vitesse">0</output>
+        <span>km/h</span>
+    </form>
+
+
+    <h1>P68 &lt;output 2&gt;</h1>          <!--注意的 < > 表示-->
+    <form name="form2" id="form2" oninput="or.value = oa.valueAsNumber + ob.valueAsNumber;">  <!--注意 valueAsNumber 的表示-->
+        <h3>Calculatrice</h3>
+        <input type="number" id="oa" name="oa" value="0"/>
+        <input type="number" id="ob" name="ob" value="0"/>
+        <label for="or"> = </label>
+        <output for="oa ob" id="or" name="or">0</output>    <!--此处的oa 和 ob 之间用空格  -->
+    </form>
+
+    <h1>P68 &lt;output 3&gt;</h1>          <!--注意的 < > 表示-->
+    <form name="form3" id="form3" oninput="result.value = nb_heures.valueAsNumber * taux_horaire.valueAsNumber * (1+TPS_TVQ.valueAsNumber)">  <!--注意 valueAsNumber 的表示-->
+        <h3>Calculatrice d'impot</h3>
+        <label>Nombre d'heures: <input type="number" id="nb_heures" name="nb_heures" value="0"/></label>
+        <label>Taux horaire($): <input type="number" id="taux_horaire" name="taux_horaire" value="13"/></label>
+        <label>TPS  TVQ: <input type="number" id="TPS_TVQ" name="TPS_TVQ" value="0.15"/><br/></label>
+        <label for="or"> Total :
+        <output for="nb_heures taux_horaire TPS_TVQ" id="result" name="result">0</output> $</label>   <!--此处的oa 和 ob 之间用空格  -->
+    </form>
+</div>
+<script src="js/main.js"></script>
+</body>
+</html>
