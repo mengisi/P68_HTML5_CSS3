@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+q{
+    background-color: #FFC;
+}
+
+:only-child{
+    background-color: #CFC;
+}
+
+.meng~q{
+    background-color: #FCC;
+}
+
+.meng{
+    color: red;
+    font-weight: bold;
+}
