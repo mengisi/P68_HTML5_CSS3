@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td, th {
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+tr:nth-child(6n+2), tr:nth-child(6n+2) + tr, tr:nth-child(6n+2) + tr + tr {
+    background-color: #FCC;
+}
+
+tr:nth-child(6n+5){
+    background-color: #f4ff95;
+}
+
+tr:nth-child(6n+6){
+    background-color: #79ff7f;
+}
+
+tr:nth-child(6n+7){
+    background-color: #74c6ff;
+}
+
+tr:first-child{
+    color: white;
+    background-color: #633;
+}
+
+tr td:nth-child(2){
+    color: #F00;
+}

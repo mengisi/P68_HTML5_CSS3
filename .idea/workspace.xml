@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e786b927-2685-48d7-8348-1601cddd692a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_H15_A faire pour jeudi 7 mai.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/P68_XueMeng_Mettre en forme Table Clients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/P68_XueMeng_Reprise des citations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/style/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/style/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/style/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/js/main.js" />
+      <change type="DELETED" beforePath="U:\P68_HTML5_CSS3\Références\HTML5 Template.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html" afterPath="$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css" afterPath="$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="P6_HTML5_CSS3.iws" />
@@ -26,31 +42,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/selectotron/index.html">
+      <file leaf-file-name="P68_XueMeng_Mettre en forme Table Clients.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/P68_XueMeng_Mettre en forme Table Clients.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.1" vertical-offset="69" max-vertical-offset="2093">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="29" />
+            <state vertical-scroll-proportion="-3.0666666" vertical-offset="207" max-vertical-offset="1955">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3513889" vertical-offset="0" max-vertical-offset="920">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P68_XueMeng_Citations.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.214286" vertical-offset="0" max-vertical-offset="598">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/selectotron/style/main.css">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1426">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectotron.css" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/selectotron/style/selectotron.css">
+      <file leaf-file-name="P68_XueMeng_Reprise des citations.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/P68_XueMeng_Reprise des citations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47916666" vertical-offset="0" max-vertical-offset="720">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state vertical-scroll-proportion="-5.822785" vertical-offset="0" max-vertical-offset="598">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/style/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P68_XueMeng_Table des préfixes métriques.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="414">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,11 +140,17 @@
         <option value="$PROJECT_DIR$/Devoirs/Jour02_Mardi_05_mai/P68_XueMeng_Exercice 6/P68_XueMeng_Exercice 6.html" />
         <option value="$PROJECT_DIR$/Devoirs/Jour02_Mardi_05_mai/P68_XueMeng_Exercice 7/style/main.css" />
         <option value="$PROJECT_DIR$/Devoirs/Jour02_Mardi_05_mai/P68_XueMeng_Exercice 7/P68_XueMeng_Exercice 7.html" />
-        <option value="$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html" />
         <option value="$PROJECT_DIR$/Exercices en classe/2015-05-06/js/main.js" />
-        <option value="$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css" />
         <option value="$PROJECT_DIR$/Devoirs/Jour02_Mardi_05_mai/P68_XueMeng_Exercice 5/P68_XueMeng_Exercice 5.html" />
         <option value="$USER_HOME$/Desktop/selectotron/style/selectotron.css" />
+        <option value="$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html" />
+        <option value="$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/P68_XueMeng_Mettre en forme Table Clients.html" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/style/main.css" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/P68_XueMeng_Reprise des citations.html" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/style/main.css" />
+        <option value="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css" />
       </list>
     </option>
   </component>
@@ -150,11 +214,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercices en classe" />
+              <option name="myItemId" value="Devoirs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2015-05-06" />
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -168,11 +232,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercices en classe" />
+              <option name="myItemId" value="Devoirs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2015-05-06" />
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_XueMeng_Table des préfixes métriques" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P6_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Devoirs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_XueMeng_Reprise des citations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P6_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Devoirs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_XueMeng_Mettre en forme Table Clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P6_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_HTML5_CSS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Devoirs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P68_XueMeng_Mettre en forme Table Clients" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -190,87 +324,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercices en classe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015-05-06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercices en classe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015-05-05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercices en classe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Devoirs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jour02_Mardi_05_mai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
+              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Devoirs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jour02_Mardi_05_mai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_XueMeng_Exercice 5" />
+              <option name="myItemId" value="P68_XueMeng_Citations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -497,7 +559,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="864" extended-state="7" />
+    <frame x="-4" y="-4" width="1448" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -508,7 +570,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28752643" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12332629" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32841823" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -529,7 +591,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12332629" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32841823" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -714,22 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Devoirs/Jour02_Mardi_05_mai/P68_XueMeng_Exercice 5/P68_XueMeng_Exercice 5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6454948" vertical-offset="0" max-vertical-offset="677">
@@ -738,26 +784,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/selectotron/style/main.css">
+    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-06/style/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1426">
+        <state vertical-scroll-proportion="0.56666666" vertical-offset="0" max-vertical-offset="720">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-06/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53333336" vertical-offset="138" max-vertical-offset="897">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.214286" vertical-offset="0" max-vertical-offset="598">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/P68_XueMeng_Reprise des citations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.822785" vertical-offset="0" max-vertical-offset="598">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Reprise des citations/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/selectotron/index.html">
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/P68_XueMeng_Mettre en forme Table Clients.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.1" vertical-offset="69" max-vertical-offset="2093">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="29" />
+        <state vertical-scroll-proportion="-3.0666666" vertical-offset="207" max-vertical-offset="1955">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/selectotron/style/selectotron.css">
+    <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47916666" vertical-offset="0" max-vertical-offset="720">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.3513889" vertical-offset="0" max-vertical-offset="920">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

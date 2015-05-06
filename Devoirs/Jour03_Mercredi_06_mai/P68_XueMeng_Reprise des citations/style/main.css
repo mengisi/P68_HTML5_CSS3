@@ -1,0 +1,11 @@
+q:not(.la_classe) {
+    background-color: #CFF;
+}
+
+q:hover {
+    background-color: #FF0;
+}
+
+.la_classe{
+    color: red;
+}
