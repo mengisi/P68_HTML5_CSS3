@@ -1,0 +1,20 @@
+/*ol{
+    list-style-type: none;
+    counter-reset: annee 1988; *//*此处annee是变量   相当于：annee=1988 *//*
+}
+
+ol li:before{
+    counter-increment: annee 4;
+    content: counter(annee)" : ";   *//*此处是一个函数*//*
+}*/
+
+
+ol{
+    list-style-type: none;
+    counter-reset: annee 0; /*此处annee是变量 */
+}
+
+ol li:before{
+    counter-increment: annee 1;
+    content: counter(annee, lower-latin)" : ";   /*此处是一个函数*/
+}

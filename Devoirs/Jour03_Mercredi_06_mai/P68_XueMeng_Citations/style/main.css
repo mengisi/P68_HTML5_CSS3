@@ -18,3 +18,14 @@ q{
     color: red;
     font-weight: bold;
 }
+
+p{
+    counter-reset: nb 0;
+}
+q:before{
+    counter-increment: nb 1;
+    content: counter(nb) " : «";
+}
+q:after{
+    content: "»";
+}

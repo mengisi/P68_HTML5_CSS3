@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+}
+
+div > ol:last-of-type{
+    counter-reset: nb 0;
+}
+
+div > ol:last-of-type> li:before{
+    counter-increment: nb 1;
+    content:  " Partie " counter(nb, upper-roman) ":";  /*upper-roman表示罗马字符*/
+}
+
+ol ol{
+    counter-reset: nb2 0;
+}
+
+ol ol li:before{
+    counter-increment: nb2 1;
+    content: "Chapitre " counter(nb, upper-roman) "." counter(nb2) " : ";
+}
