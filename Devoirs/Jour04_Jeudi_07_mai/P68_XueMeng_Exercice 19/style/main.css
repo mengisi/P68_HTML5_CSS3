@@ -1,0 +1,14 @@
+
+/*此处图像的上、下顺序是其url的先后顺序决定的。*/
+
+body{
+    background-image: url(../img/mutuelle-pour-chien.jpg), url(../img/mutuelle-pour-chien-petit.jpg);
+    background-repeat: no-repeat,repeat;
+    background-attachment:fixed, scroll ;
+    background-position: center center, left top;
+}
+
+p{
+    width: 300px;
+    margin: 100px auto;
+}

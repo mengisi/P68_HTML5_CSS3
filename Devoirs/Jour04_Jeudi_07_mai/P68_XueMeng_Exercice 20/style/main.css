@@ -1,0 +1,29 @@
+
+
+/*:root 即HTML， 此处要在:root 和 body 中都设置100%的高度，且body要no-repeat, 渐变会随着窗口大小而自适应*/
+
+:root{
+    height: 100%;
+}
+
+body{
+    min-height:100%;
+    background: linear-gradient(45deg, #272727 10% , #ff1c1f 40%, #090  )  no-repeat;
+}
+
+h1{
+    margin: 50px auto;
+    border: 1px solid #000000;
+    width: 500px;
+    text-align: center;
+    background: linear-gradient(to right, #1f30ff, #ffff00);
+}
+
+div{
+    margin: 50px auto;
+    border: 1px solid #000000;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, red, #ffff00);
+}
+

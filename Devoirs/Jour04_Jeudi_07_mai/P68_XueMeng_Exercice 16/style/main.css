@@ -1,0 +1,29 @@
+div {
+    margin: 50px auto;
+    border: 1px solid #000000;
+    width: 800px;
+    background-color: yellowgreen;
+    box-shadow: 30px 30px 20px rgba(2, 2, 1, 0.95);
+    border-radius: 10%;
+}
+
+article {
+    border: 1px solid #000000;
+    width: 500px;
+    margin: 20px auto;
+}
+
+article:first-of-type{
+    background-color: hotpink;
+    box-shadow: -20px -20px 20px rgba(2, 2, 1, 0.55) inset;
+    border-top-left-radius: 15% 30%;
+    border-top-right-radius: 30% 10%;
+    border-bottom-right-radius: 20% 40%;
+    border-bottom-left-radius: 5% 25%;
+}
+
+article:last-of-type{
+    background-color: hotpink;
+    box-shadow: -20px -20px 20px rgba(2, 2, 1, 0.55) inset, 20px 20px 20px rgba(2, 2, 1, 0.87);
+    border-radius: 15% 30% 20% 5%/30% 10% 40% 25%;
+}
