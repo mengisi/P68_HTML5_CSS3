@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e786b927-2685-48d7-8348-1601cddd692a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TP/P68_E15_TP.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercices en classe/2015-05-07/Modèle/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercices en classe/2015-05-07/Modèle/style/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercices en classe/2015-05-07/Modèle/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Citations/P68_XueMeng_Citations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Mettre en forme Table Clients/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/style/main.css" afterPath="$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="U:\P68_HTML5_CSS3\Exercices en classe\2015-05-07\Modèle\1.html" afterPath="" />
+      <change type="DELETED" beforePath="U:\P68_HTML5_CSS3\Exercices en classe\2015-05-07\Modèle\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="U:\P68_HTML5_CSS3\Exercices en classe\2015-05-07\Modèle\style\main.css" afterPath="" />
     </list>
     <ignored path="P6_HTML5_CSS3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -138,14 +132,6 @@
               <option name="myItemId" value="Exercices en classe" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015-05-07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modèle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -160,70 +146,8 @@
               <option name="myItemId" value="Exercices en classe" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Devoirs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Devoirs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_XueMeng_Table des préfixes métriques" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P6_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_HTML5_CSS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Devoirs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jour03_Mercredi_06_mai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P68_XueMeng_Table des préfixes métriques" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
+              <option name="myItemId" value="2015-05-07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,7 +380,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="864" extended-state="6" />
+    <frame x="-4" y="-4" width="1448" height="864" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -827,8 +751,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Devoirs/Jour03_Mercredi_06_mai/P68_XueMeng_Table des préfixes métriques/P68_XueMeng_Table des préfixes métriques.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68115944" vertical-offset="36" max-vertical-offset="748">
+        <state vertical-scroll-proportion="0.7115942" vertical-offset="38" max-vertical-offset="782">
           <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-07/Modèle/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercices en classe/2015-05-07/Modèle/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
