@@ -1,0 +1,19 @@
+tr:nth-of-type(6n+1) td:hover{
+    background-color: hotpink;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid #000000;
+}
+
+tr:target{
+    background-color: lawngreen;
+}
+
+td:empty{
+    background-color: #8280cd;
+}

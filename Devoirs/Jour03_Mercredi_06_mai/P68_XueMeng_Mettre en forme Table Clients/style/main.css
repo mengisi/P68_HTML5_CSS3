@@ -9,7 +9,7 @@ td, th {
     text-align: left;
 }
 
-tr:nth-child(6n+2), tr:nth-child(6n+2) + tr, tr:nth-child(6n+2) + tr + tr {
+tr:nth-child(6n+2), tr:nth-child(6n+3) , tr:nth-child(6n+4) {
     background-color: #FCC;
 }
 
@@ -30,6 +30,18 @@ tr:first-child{
     background-color: #633;
 }
 
-tr td:nth-child(2){
+
+tr td:nth-child(2) {
     color: #F00;
 }
+
+
+/*或者通过以下方式选择第二纵列：
+tr:nth-of-type(n+2) :nth-child(2){
+    color: #F00;
+}*/
+
+/*或者通过以下方式选择第二纵列：
+tr:not(:first-child) :nth-child(2){
+    color: #F00;
+}*/
