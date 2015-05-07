@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    background-image: url(image/fondbleu2.gif), url(image/fondjaune.gif);
+    background-repeat: repeat-y, repeat;
+    background-attachment: fixed, scroll;  /*一个背景不动，另一个背景动*/
+}
+
+h2 {
+    background-color: #ffff00;
+   /* background-image: url(image/fondjaune.gif);
+    background-repeat: repeat-y;*/
+}
+
