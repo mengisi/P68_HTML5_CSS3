@@ -69,7 +69,7 @@ git reset HEAD file
 合并：先要在主分支上，然后git merge --no-ff -m "..." Meng
 
 删除远程的分支：git push origin --delete Meng
-删除远程分支方法2： 先在本地删除Meng分支， 然后git push origin :Meng
+删除远程分支方法2： 先在本地删除Meng分支， 然后git push origin :远程的分支名
 
 如果git pull提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令git branch --set-upstream branch-name origin/branch-name。
 
