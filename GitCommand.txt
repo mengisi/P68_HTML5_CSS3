@@ -51,3 +51,21 @@ git reflog
 
 git checkout file
 git reset HEAD file
+
+建立分支：git branch Meng
+
+查看分支情况： git branch
+
+切换分支：git checkout Meng
+
+ 建立并切换到新分支： 先到主分支（git checkout master） git checkout -b Meng
+ 删除分支：git branch -d Meng
+
+
+连接到远程github： git remote set-url origin https://......
+
+推送到远程：git push origin master 或 git push origin Meng
+
+合并：先要在主分支上，然后git merge --no--ff -m "..." Meng
+
+删除远程的分支：git push origin --delete Meng
