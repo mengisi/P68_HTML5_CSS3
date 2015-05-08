@@ -66,7 +66,7 @@ git reset HEAD file
 
 推送到远程：git push origin master 或 git push origin Meng
 
-合并：先要在主分支上，然后git merge --no--ff -m "..." Meng
+合并：先要在主分支上，然后git merge --no-ff -m "..." Meng
 
 删除远程的分支：git push origin --delete Meng
 
