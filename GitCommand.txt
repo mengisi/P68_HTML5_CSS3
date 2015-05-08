@@ -64,7 +64,7 @@ git reset HEAD file
 
 连接到远程github： git remote set-url origin https://......
 
-推送到远程：git push origin master 或 git push origin Meng
+推送到远程：git push origin master 或 git push origin 本地分支名：远程分支名(二者最好 相同)
 
 合并：先要在主分支上，然后git merge --no-ff -m "..." Meng
 
