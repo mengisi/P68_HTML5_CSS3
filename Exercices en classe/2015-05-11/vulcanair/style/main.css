@@ -1,0 +1,72 @@
+/*Styles pour grand écran*/
+@media screen {
+    header {
+        height: 15%;
+        background-color: #EEE;
+    }
+
+    div {
+        background-color: #FFA;
+        color: black;
+        font-size: 14px;
+    }
+
+    p {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        -ms-column-count: 2;
+        -o-column-count: 2;
+        column-count: 2;
+    }
+
+    h1 {
+        font-size: 50px;
+        font-style: italic;
+        color: rgb(255, 102, 51);
+        text-align: center;
+    }
+
+    img {
+        float: left;
+        margin: 5px;
+        width: 150px;
+    }
+
+    a {
+        border: solid grey 2px;
+        background-color: #DDD;
+        border-radius: 5px;
+    }
+}
+
+/*设置完成后，要重启浏览器方可看到效果？*/
+@media screen and (max-width:400px) {
+    header{
+        display: none;
+    }
+    div {
+        font-family: arial;
+        font-size: 20px;
+        background-color: inherit;
+    }
+    h2{
+        text-align: center;
+    }
+
+    p {
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        -ms-column-count: 1;
+        -o-column-count: 1;
+        column-count: 1;
+    }
+    a{
+        font-size: 2em;
+        background-color: lightgrey;
+
+    }
+    img{
+        width: 50px;
+        height: 50px;
+    }
+}

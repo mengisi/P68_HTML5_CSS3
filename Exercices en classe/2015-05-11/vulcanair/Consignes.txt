@@ -1,0 +1,10 @@
+- en dessous de 400px :
+-- suppr header et h1
+-- enlever couleur de fond jaune
+-- Imposer la police Arial
+-- centrer le texte du h2 et le mettre sur fond gris #EEE
+-- p principal passe à :
+--- 1 seule colonne au lieu de 2
+--- augmenter la police à 16px
+-- Augmenter la taille de texte des liens à 2em
+-- Changer taille image à 50x50px

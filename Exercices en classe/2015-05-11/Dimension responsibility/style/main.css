@@ -1,0 +1,12 @@
+
+/*此处的顺序非常重要：先常规，再print*/
+abbr {
+    color: green;
+}
+
+@media print {
+    abbr {
+        color: red;
+    }
+}
+

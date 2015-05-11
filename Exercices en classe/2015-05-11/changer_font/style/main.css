@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Caitlin;
+    src: url(../polices/Caitlin.ttf);
+}
+
+h2{
+    font-family: Caitlin;
+}
