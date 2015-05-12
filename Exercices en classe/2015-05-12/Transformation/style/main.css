@@ -1,0 +1,18 @@
+#main_wrapper{
+    margin:50px;
+    background-color: #cbcbcb;
+    height: 800px;
+    padding: 25px;
+}
+
+#form{
+background-color: #003300;
+width: 200px;
+height: 120px;
+}
+
+
+#form:hover{
+
+    transform: translateX(60px) rotate(60deg) scale(2, 1.5) skew(10deg, 20deg);  /* 此处 用空格 相连*/
+}
