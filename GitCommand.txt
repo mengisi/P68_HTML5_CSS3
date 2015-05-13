@@ -1,52 +1,52 @@
-git branch -f master£¨»òÕßHEAD£¬»òÕßÆäËû·ÖÖ§Ãû£© ~3
-´ËÃüÁî¿ÉÏòÉÏÒÆ¶¯·ÖÖ§3´Î¡£
+git branch -f masterï¼ˆæˆ–è€…HEADï¼Œæˆ–è€…å…¶ä»–åˆ†æ”¯åï¼‰ ~3
+æ­¤å‘½ä»¤å¯å‘ä¸Šç§»åŠ¨åˆ†æ”¯3æ¬¡ã€‚
 
-git branch -f master£¨»òÕßHEAD£¬»òÕßÆäËû·ÖÖ§Ãû£© hash
-´ËÃüÁî¿ÉÒÆ¶¯·ÖÖ§µ½hashµÄÎ»ÖÃ¡£
+git branch -f masterï¼ˆæˆ–è€…HEADï¼Œæˆ–è€…å…¶ä»–åˆ†æ”¯åï¼‰ hash
+æ­¤å‘½ä»¤å¯ç§»åŠ¨åˆ†æ”¯åˆ°hashçš„ä½ç½®ã€‚
 
-³·Ïú: git revert ·ÖÖ§Ãû
+æ’¤é”€: git revert åˆ†æ”¯å
 --------------------------------------------------
 git config --global user.name "XXX"
 git config --global user.email "XXX"
-ÉÏÊöÖĞ£¬--global±íÊ¾È«¾Ö£¬¿ÉÊ¡ÂÔ¡£
+ä¸Šè¿°ä¸­ï¼Œ--globalè¡¨ç¤ºå…¨å±€ï¼Œå¯çœç•¥ã€‚
 
- ²é¿´ÉèÖÃ½á¹û: git config --list
-»òÕß£ºÈ«¾ÖµÄÍ¨¹ıvim ~/.gitconfigÀ´²é¿´, ¾Ö²¿µÄÍ¨¹ıµ±Ç°Â·¾¶ÏÂµÄ .git/configÎÄ¼şÀ´²é¿´
+ æŸ¥çœ‹è®¾ç½®ç»“æœ: git config --list
+æˆ–è€…ï¼šå…¨å±€çš„é€šè¿‡vim ~/.gitconfigæ¥æŸ¥çœ‹, å±€éƒ¨çš„é€šè¿‡å½“å‰è·¯å¾„ä¸‹çš„ .git/configæ–‡ä»¶æ¥æŸ¥çœ‹
 
 git log --pretty=oneline
 
 git reflog
 
 
-»ØÍËÒ»²½: git reset --hard HEAD~1
-Ç°½ø: git reset --hard hashÖµ(»òÆäÇ°¶Î´úÂë)
+å›é€€ä¸€æ­¥: git reset --hard HEAD~1
+å‰è¿›: git reset --hard hashå€¼(æˆ–å…¶å‰æ®µä»£ç )
 
-³·ÏúĞŞ¸Ä(addºóÎ´ĞŞ¸Ä): git checkout file
-³·ÏúĞŞ¸Ä(addºóĞŞ¸Äµ«Î´commit): git reset HEAD file
-³·ÏúĞŞ¸Ä(ÒÑ¾­commit): git reset hashÖµ filename  (»òHEAD~ ?)
+æ’¤é”€ä¿®æ”¹(addåæœªä¿®æ”¹): git checkout file
+æ’¤é”€ä¿®æ”¹(addåä¿®æ”¹ä½†æœªcommit): git reset HEAD file
+æ’¤é”€ä¿®æ”¹(å·²ç»commit): git reset hashå€¼ filename  (æˆ–HEAD~ ?)
 
-²é¿´·ÖÖ§Çé¿ö£º git branch
+æŸ¥çœ‹åˆ†æ”¯æƒ…å†µï¼š git branch
 
-ÇĞ»»·ÖÖ§£ºgit checkout Meng
+åˆ‡æ¢åˆ†æ”¯ï¼šgit checkout Meng
 
-½¨Á¢·ÖÖ§£ºgit branch Meng
-½¨Á¢²¢ÇĞ»»µ½ĞÂ·ÖÖ§£º ÏÈµ½Ö÷·ÖÖ§£¨git checkout master£© git checkout -b Meng
- É¾³ı·ÖÖ§£ºgit branch -d Meng
+å»ºç«‹åˆ†æ”¯ï¼šgit branch Meng
+å»ºç«‹å¹¶åˆ‡æ¢åˆ°æ–°åˆ†æ”¯ï¼š å…ˆåˆ°ä¸»åˆ†æ”¯ï¼ˆgit checkout masterï¼‰ git checkout -b Meng
+ åˆ é™¤åˆ†æ”¯ï¼šgit branch -d Meng
 
-ÍÆËÍµ½Ô¶³Ì£ºgit push origin ±¾µØ·ÖÖ§Ãû£ºÔ¶³Ì·ÖÖ§Ãû(¶şÕßÈçÏàÍ¬£¬¿ÉĞ´: git push origin ·ÖÖ§Ãû)
+æ¨é€åˆ°è¿œç¨‹ï¼šgit push origin æœ¬åœ°åˆ†æ”¯åï¼šè¿œç¨‹åˆ†æ”¯å(äºŒè€…å¦‚ç›¸åŒï¼Œå¯å†™: git push origin åˆ†æ”¯å)
 
-ºÏ²¢£ºÏÈÒªÔÚÖ÷·ÖÖ§ÉÏ£¬È»ºógit merge --no-ff -m "..." Meng
+åˆå¹¶ï¼šå…ˆè¦åœ¨ä¸»åˆ†æ”¯ä¸Šï¼Œç„¶ågit merge --no-ff -m "..." Meng
 
-É¾³ıÔ¶³ÌµÄ·ÖÖ§£ºgit push origin --delete Meng
-É¾³ıÔ¶³Ì·ÖÖ§·½·¨2£º ÏÈÔÚ±¾µØÉ¾³ıMeng·ÖÖ§£¬ È»ºógit push origin :Ô¶³ÌµÄ·ÖÖ§Ãû
+åˆ é™¤è¿œç¨‹çš„åˆ†æ”¯ï¼šgit push origin --delete Meng
+åˆ é™¤è¿œç¨‹åˆ†æ”¯æ–¹æ³•2ï¼š å…ˆåœ¨æœ¬åœ°åˆ é™¤Mengåˆ†æ”¯ï¼Œ ç„¶ågit push origin :è¿œç¨‹çš„åˆ†æ”¯å
 
-Ê¹ÓÃstashµÄ³¡ºÏ£ºµ±Ç°¹¤×÷ÇøÄÚÈİÒÑ±»ĞŞ¸Ä£¬µ«ÊÇ²¢Î´Íê³É¡£ÕâÊ±BossÀ´ÁË£¬ËµÇ°ÃæµÄ·ÖÖ§ÉÏÃæÓĞÒ»¸öBug£¬ĞèÒªÁ¢¼´ĞŞ¸´¡£¿ÉÊÇÎÒÓÖ²»ÏëÌá½»Ä¿Ç°µÄĞŞ¸Ä£¬ÒòÎªÌá½»µÄ»°£¬´úÂë²ÅÍê³ÉÒ»°ë»òÕß²»ÍêÉÆ£¬µ¼ÖÂlogÉÏÓĞ´óÁ¿²»±ØÒªµÄ¼ÇÂ¼¡£µ«ÊÇ£¬²»Ìá½»µÄ»°£¬ÓÖÃ»ÓĞ°ì·¨checkoutµ½Ç°ÃæµÄ·ÖÖ§¡£
+ä½¿ç”¨stashçš„åœºåˆï¼šå½“å‰å·¥ä½œåŒºå†…å®¹å·²è¢«ä¿®æ”¹ï¼Œä½†æ˜¯å¹¶æœªå®Œæˆã€‚è¿™æ—¶Bossæ¥äº†ï¼Œè¯´å‰é¢çš„åˆ†æ”¯ä¸Šé¢æœ‰ä¸€ä¸ªBugï¼Œéœ€è¦ç«‹å³ä¿®å¤ã€‚å¯æ˜¯æˆ‘åˆä¸æƒ³æäº¤ç›®å‰çš„ä¿®æ”¹ï¼Œå› ä¸ºæäº¤çš„è¯ï¼Œä»£ç æ‰å®Œæˆä¸€åŠæˆ–è€…ä¸å®Œå–„ï¼Œå¯¼è‡´logä¸Šæœ‰å¤§é‡ä¸å¿…è¦çš„è®°å½•ã€‚ä½†æ˜¯ï¼Œä¸æäº¤çš„è¯ï¼Œåˆæ²¡æœ‰åŠæ³•checkoutåˆ°å‰é¢çš„åˆ†æ”¯ã€‚
 
 
-Èç¹ûgit pullÌáÊ¾¡°no tracking information¡±£¬ÔòËµÃ÷±¾µØ·ÖÖ§ºÍÔ¶³Ì·ÖÖ§µÄÁ´½Ó¹ØÏµÃ»ÓĞ´´½¨£¬ÓÃÃüÁîgit branch --set-upstream branch-name origin/branch-name¡££¨»òÕßÒÔÏÂµÚÒ»´ÎÍÆËÍµÄ°ì·¨£¿£©
+å¦‚æœgit pullæç¤ºâ€œno tracking informationâ€ï¼Œåˆ™è¯´æ˜æœ¬åœ°åˆ†æ”¯å’Œè¿œç¨‹åˆ†æ”¯çš„é“¾æ¥å…³ç³»æ²¡æœ‰åˆ›å»ºï¼Œç”¨å‘½ä»¤git branch --set-upstream branch-name origin/branch-nameã€‚ï¼ˆæˆ–è€…ä»¥ä¸‹ç¬¬ä¸€æ¬¡æ¨é€çš„åŠæ³•ï¼Ÿï¼‰
 
-Ìí¼ÓÔ¶³Ì²Ö¿â: git remote add origin url£¬È»ºó½øĞĞµÚÒ»´ÎÍÆËÍ(ÓÃ-u): git push -u origin master
-Ìí¼ÓµÚ¶ş¸öÔ¶³Ì²Ö¿â: git remote set-url --add origin <url2> 
-ĞŞ¸ÄÔ¶³Ì²Ö¿âµØÖ·£º   git remote set-url [--push] <name> <newurl> [<oldurl>]   ´Ë´¦·½À¨ºÅÖĞµÄÄÚÈİÎª¿ÉÑ¡Ïî
+æ·»åŠ è¿œç¨‹ä»“åº“: git remote add origin urlï¼Œç„¶åè¿›è¡Œç¬¬ä¸€æ¬¡æ¨é€(ç”¨-u): git push -u origin master (å¦‚æœå½“å‰åˆ†æ”¯ä¸å¤šä¸ªä¸»æœºå­˜åœ¨è¿½è¸ªå…³ç³»ï¼Œåˆ™å¯ä»¥ä½¿ç”¨-ué€‰é¡¹æŒ‡å®šä¸€ä¸ªé»˜è®¤ä¸»æœºï¼Œè¿™æ ·åé¢å°±å¯ä»¥ä¸åŠ ä»»ä½•å‚æ•°ä½¿ç”¨git push)
+æ·»åŠ ç¬¬äºŒä¸ªè¿œç¨‹ä»“åº“: git remote set-url --add origin <url2> 
+ä¿®æ”¹è¿œç¨‹ä»“åº“åœ°å€ï¼š   git remote set-url [--push] <name> <newurl> [<oldurl>]   æ­¤å¤„æ–¹æ‹¬å·ä¸­çš„å†…å®¹ä¸ºå¯é€‰é¡¹
 
-ÔÚ±¾µØ¿ËÂ¡Ô¶³Ì²Ö¿â: git clone url
+åœ¨æœ¬åœ°å…‹éš†è¿œç¨‹ä»“åº“: git clone url
