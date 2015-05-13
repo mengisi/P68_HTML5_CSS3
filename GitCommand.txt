@@ -35,7 +35,7 @@ git reflog
 
 推送到远程：git push origin 本地分支名：远程分支名(二者如相同，可写: git push origin 分支名)
 
-合并：先要在主分支上，然后git merge --no-ff -m "..." Meng
+合并：先要在主分支上，然后git merge --no-ff -m "..." branch_name（禁用fast forward，因为该方式合并后看不到历史提交信息）
 
 删除远程的分支：git push origin --delete Meng
 删除远程分支方法2： 先在本地删除Meng分支， 然后git push origin :远程的分支名
