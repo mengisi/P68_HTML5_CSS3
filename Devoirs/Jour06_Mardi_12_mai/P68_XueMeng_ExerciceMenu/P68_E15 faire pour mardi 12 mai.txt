@@ -1,0 +1,7 @@
+P68_E15 faire pour mardi 12 mai:
+- Pour votre TP
+-- 2 maquettes très grossière (à la main OK)
+-- Codage grossier HTML + CSS faisant apparaître les blocs principaux (mettre couleur de fond)
+- Exercice menu : Le menu est :
+-- Horizontal en version "desktop" (> 400px)
+-- Vertical en version "Mobile" (<400px)
