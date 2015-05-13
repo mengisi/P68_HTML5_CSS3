@@ -45,7 +45,7 @@ git reflog
 
 如果git pull提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令git branch --set-upstream branch-name origin/branch-name。（或者以下第一次推送的办法？）
 
-添加远程仓库: git remote add origin url，然后进行第一次推送(用-u): git push -u origin master (如果当前分支与多个主机存在追踪关系，则可以使用-u选项指定一个默认主机，这样后面就可以不加任何参数使用git push)
+添加远程仓库: git remote add origin url，然后进行第一次推送(用-u): git push -u origin master(如果当前分支与多个主机存在追踪关系，则可以使用-u选项指定一个默认主机，这样后面就可以不加任何参数使用git push)
 添加第二个远程仓库: git remote set-url --add origin <url2> 
 修改远程仓库地址：   git remote set-url [--push] <name> <newurl> [<oldurl>]   此处方括号中的内容为可选项
 

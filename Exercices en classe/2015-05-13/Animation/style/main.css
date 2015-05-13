@@ -1,0 +1,124 @@
+/*@keyframes deplace_droits {
+    0% {
+        margin-left: 0;
+        opacity: 0.5;
+    }
+    50% {
+        margin-left: 300px;
+        opacity: 1;
+        border-radius: 50%;
+    }
+    100% {
+        margin-left: 0;
+        opacity: 0.5;
+    }
+}
+@-webkit-keyframes deplace_droits {
+    0% {
+        margin-left: 0;
+        opacity: 0.5;
+    }
+    50% {
+        margin-left: 300px;
+        opacity: 1;
+        border-radius: 50%;
+    }
+    100% {
+        margin-left: 0;
+        opacity: 0.5;
+    }
+}
+#div1 {
+    background-color: #0000f6;
+    width: 200px;
+    height: 100px;
+}
+#div1:target {
+    animation-name: deplace_droits;  *//*此处也可以添加多个动画函数，用逗号隔开*//*
+    animation-duration: 1s;
+    animation-iteration-count: infinite;                    *//*重复次数*//*
+@-webkit-animation-name : deplace_droits;
+@-webkit-animation-duration : 1 s;
+@-webkit-animation-iteration-count: infinite;
+}*/
+
+
+
+
+@keyframes deplace_droits {
+    0% {
+        left: 0;
+        top: 0;
+    }
+    15% {
+        left: 0;
+        top: 200px;
+    }
+    30% {
+        left: 200px;
+        top: 200px;
+    }
+    40% {
+        left: 200px;
+        top: 0;
+    }
+    50% {
+        left: 0;
+        top: 0;
+    }
+    65% {
+        left: 200px;
+        top: 0;
+    }
+    80% {
+        left: 200px;
+        top: 200px;
+    }
+    90% {
+        left: 0;
+        top: 200px;
+    }
+
+    100% {
+        left: 0;
+        top: 0;
+    }
+}
+/*@-webkit-keyframes deplace_droits {
+    0% {
+        margin-left: 0;
+    }
+    50% {
+        margin-left: 300px;
+    }
+    100% {
+        margin-left: 0;
+    }
+}*/
+#div1 {
+    background-color: #0000f6;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+}
+#div1:target {
+    animation-name: deplace_droits;  /*此处也可以添加多个动画函数，用逗号隔开*/
+    animation-duration: 2s;
+    animation-iteration-count: 1;                    /*重复次数*/
+    animation-fill-mode: none;
+
+
+/*@-webkit-animation-name : deplace_droits;
+@-webkit-animation-duration : 1 s;
+@-webkit-animation-iteration-count: infinite;*/
+}
+
+a, #span1{
+    float: right;
+    clear: right;
+    font-size: 3em;
+}
+
+#div1.div_animation{
+    background-color: #000000;
+}

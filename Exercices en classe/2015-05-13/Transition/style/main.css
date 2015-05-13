@@ -1,0 +1,29 @@
+#div1 {
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    transition: background-color 2s ease 2s, width 5s ease 0s; /*先变width,再变color*/
+}
+
+#div1:hover {
+    background-color: green;
+    width: 800px;
+}
+
+#div2 {
+    margin-top: 350px;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    transition: background-color 2s, transform 2s; /*先变width,再变color*/
+}
+
+#div2:target {
+    transform: rotate(-90deg) skew(10deg, 20deg) scale(1.5,0.2) translateX(200px); /* 此处 用空格 相连*/
+    background-color: green;
+}
+
+#div2:hover {
+    background-color:black;
+}
