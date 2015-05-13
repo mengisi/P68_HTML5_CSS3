@@ -1,0 +1,16 @@
+/*
+:nth-child(1):not(a){
+    background-color: gray;
+}*/
+
+/*
+:nth-child(odd):not(body){
+    background-color: gray;
+
+}*/
+
+
+:nth-of-type(3n+2):not(body){
+    background-color: gray;
+    border: 3px solid #ff591a;
+}

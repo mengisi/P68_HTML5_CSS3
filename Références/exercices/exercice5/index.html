@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Exercice5</title>
+    <link rel="stylesheet" href="style/main.css"/>
+</head>
+<body>
+<div id="main_wrapper">
+    <form name="form1" id="form1">
+        <fieldset>
+            <legend>Peudo, mot de passe et avatar</legend>
+            <!--Champ identifiant, autofocus, validation par pattern (1er car. maj.)-->
+            <label for="pseudo">Pseudo:</label>
+            <input type="text" name="pseudo" id="pseudo" autofocus="autofocus" required="required" pattern="[a-z]\w*" title="Pseudo : 1er caractère minuscule."/>
+            <!--Champ mot de passe, validation par pattern (4 et 8 caractères) -->
+            <label for="mdp">Mot de passe:</label>
+            <input type="password" name="mdp" id="mdp" required="required" pattern="\w{4,8}" title="Mot de passe: de 4 à 8 caractères."/>
+            <!--Champ fichier (images profil) -->
+            <label for="img_files">Images:</label>
+            <input type="file" multiple="multiple" name="img_files" id="img_files" accept="image/*" required="required" title="Un ou plusieurs fichiers image"/>
+        </fieldset>
+        <input type="submit" name="Soumettre"/>
+        <input type="reset" name="Maz"/>
+    </form>
+</div>
+</body>
+</html>
