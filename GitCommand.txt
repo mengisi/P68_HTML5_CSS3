@@ -13,7 +13,7 @@ git config --global user.email "XXX"
  查看设置结果: git config --list
 或者：全局的通过vim ~/.gitconfig来查看, 局部的通过当前路径下的 .git/config文件来查看
 
-git log --pretty=oneline
+git log --pretty=oneline (或者git log --graph --pretty=oneline --abbrev-commit)
 
 git reflog
 
@@ -35,7 +35,7 @@ git reflog
 
 推送到远程：git push origin 本地分支名：远程分支名(二者如相同，可写: git push origin 分支名)
 
-合并：先要在主分支上，然后git merge --no-ff -m "..." Meng
+合并：先要在主分支上，然后git merge --no-ff -m "..." branch_name（禁用fast forward，因为该方式合并后看不到历史提交信息）
 
 删除远程的分支：git push origin --delete Meng
 删除远程分支方法2： 先在本地删除Meng分支， 然后git push origin :远程的分支名
