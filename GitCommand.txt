@@ -40,9 +40,10 @@ git reflog
 删除远程的分支：git push origin --delete Meng
 删除远程分支方法2： 先在本地删除Meng分支， 然后git push origin :远程的分支名
 
-如果git pull提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令git branch --set-upstream branch-name origin/branch-name。
-
 使用stash的场合：当前工作区内容已被修改，但是并未完成。这时Boss来了，说前面的分支上面有一个Bug，需要立即修复。可是我又不想提交目前的修改，因为提交的话，代码才完成一半或者不完善，导致log上有大量不必要的记录。但是，不提交的话，又没有办法checkout到前面的分支。
+
+
+如果git pull提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令git branch --set-upstream branch-name origin/branch-name。（或者以下第一次推送的办法？）
 
 添加远程仓库: git remote add origin url，然后进行第一次推送(用-u): git push -u origin master
 添加第二个远程仓库: git remote set-url --add origin <url2> 
