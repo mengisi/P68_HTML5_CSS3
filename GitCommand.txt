@@ -13,7 +13,7 @@ git config --global user.email "XXX"
  查看设置结果: git config --list
 或者：全局的通过vim ~/.gitconfig来查看, 局部的通过当前路径下的 .git/config文件来查看
 
-git log --pretty=oneline
+git log --pretty=oneline (或者git log --graph --pretty=oneline --abbrev-commit)
 
 git reflog
 
