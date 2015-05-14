@@ -82,6 +82,7 @@
     100% {
         left: 0;
         top: 0;
+        width: 400px;
     }
 }
 /*@-webkit-keyframes deplace_droits {
@@ -100,8 +101,12 @@
     width: 200px;
     height: 100px;
     position: absolute;
+   /* top:200px;      /*此实验表明 刚开始如果隐藏，即使起始位置与0%不同，动画时也不会显示出来。*/
+   /* left: 200px;*/
+   /* display: none;*/
 }
 #div1:target {
+    /*display: block;*/
     animation-name: deplace_droits;  /*此处也可以添加多个动画函数，用逗号隔开*/
     animation-duration: 2s;
     animation-iteration-count: 1;                    /*重复次数*/
