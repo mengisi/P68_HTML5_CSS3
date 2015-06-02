@@ -26,9 +26,11 @@ git reflog
 撤销修改(已经commit): git reset hash值 filename  (或HEAD~ ?)
 
 查看分支情况： git branch
-
+查看所有分支(包括隐藏的)  git branch -a
 切换分支：git checkout Meng
 
+
+在本地新建同名的("dev")分支，并切换到该分支 git checkout -t origin/dev 该命令等同于: git checkout -b dev origin/dev
 建立分支：git branch Meng
 建立并切换到新分支： 先到主分支（git checkout master） git checkout -b Meng
  删除分支：git branch -d Meng
