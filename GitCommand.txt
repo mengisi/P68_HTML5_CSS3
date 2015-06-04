@@ -30,7 +30,7 @@ git reflog
 切换分支：git checkout Meng
 
 
-在本地新建同名的("dev")分支，并切换到该分支 git checkout -t origin/dev 该命令等同于: git checkout -b dev origin/dev
+在本地克隆"dev"分支，并切换到该分支 git checkout -t origin/dev 该命令等同于: git checkout -b dev origin/dev
 建立分支：git branch Meng
 建立并切换到新分支： 先到主分支（git checkout master） git checkout -b Meng
  删除分支：git branch -d Meng
